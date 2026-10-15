@@ -1,5 +1,7 @@
 # Detect Any Element
 
+**This repository is archived.** This project now lives in [isochronous/ONI-Mods](https://github.com/isochronous/ONI-Mods/tree/main/mods/detect-any-element), with its full history; work and new releases continue there. The releases published here stay available.
+
 An [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) mod: the element sensors get an **Any** choice, right under **None** in their side screen.
 
 ## What it does
